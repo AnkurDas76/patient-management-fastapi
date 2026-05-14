@@ -1,6 +1,6 @@
 # 🏥 Patient Management System API
 
-A simple REST API built with :contentReference[oaicite:0]{index=0} while learning backend development using FastAPI.
+AA simple REST API built with FastAPI as a backend learning project.
 
 This project performs basic CRUD operations for managing patient records and also calculates BMI with automatic health status generation.
 
