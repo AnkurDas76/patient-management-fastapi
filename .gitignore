@@ -1,0 +1,6 @@
+myenv
+myenv/
+venv/
+__pycache__/
+*.pyc
+pydantic-why.py
