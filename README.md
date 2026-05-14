@@ -1,6 +1,6 @@
 # 🏥 Patient Management System API
 
-AA simple REST API built with FastAPI as a backend learning project.
+A simple REST API built with FastAPI as a backend learning project.
 
 This project performs basic CRUD operations for managing patient records and also calculates BMI with automatic health status generation.
 
@@ -22,9 +22,11 @@ This project performs basic CRUD operations for managing patient records and als
 ## 🛠️ Tech Stack
 
 - Python
-- :contentReference[oaicite:1]{index=1}
+- FastAPI
 - Pydantic
-- JSON file storage
+- Uvicorn
+- JSON
+- REST API
 
 ---
 
